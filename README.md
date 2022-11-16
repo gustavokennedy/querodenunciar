@@ -4,8 +4,9 @@
 O Quero Denunciar foi criado para facilitar o registro de representações em órgãos municipais, estaduais e federais. A Quero Denunciar não possui vinculo com órgãos ou empresas. É um sistema autonomo para registros de denúncias em âmbito nacional, sem nenhum patrocinador. O objetivo do sistema é facilitar as denúncias para todo o país.
 
 # Ajude
-Ajude a manter. As doações são utilizadas para novos recursos e infraestrutura Cloud do sistema. Cada centavo ajuda continuar o projeto Quero Denunciar.
+Ajude a manter. As doações são utilizadas para novos recursos e infraestrutura Cloud do sistema. Cada centavo ajuda continuar o projeto Quero Denunciar. 
 
+Sua ajuda é bem vinda.
 
 ## Próximas Melhorias
 
