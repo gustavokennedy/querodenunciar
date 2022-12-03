@@ -20,17 +20,15 @@ Ainda precisamos incluir:
 
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
-`APP_DEBUG="true"`
+`
+APP_DEBUG="true"
+APP_URL="http://localhost"
+DB_HOST="127.0.0.1"
+DB_DATABASE="denuncias"
+DB_USER="root"
+DB_PASS=""
+`
 
-`APP_URL="http://localhost"`
-
-`DB_HOST="127.0.0.1"`
-
-`DB_DATABASE="denuncias"`
-
-`DB_USER="root"`
-
-`DB_PASS=""`
 ## Stack utilizada
 
 PHP, Bootstrap e mySQL
