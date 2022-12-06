@@ -26,7 +26,7 @@ APP_URL="http://localhost"
 DB_HOST="127.0.0.1"
 DB_DATABASE="denuncias"
 DB_USER="root"
-DB_PASS=""
+DB_PASS="root"
 ```
 
 ## Stack utilizada
