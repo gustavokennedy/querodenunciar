@@ -32,8 +32,3 @@ DB_PASS="root"
 ## Stack utilizada
 
 PHP, Bootstrap e mySQL
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
