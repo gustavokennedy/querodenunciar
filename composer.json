@@ -1,5 +1,23 @@
+nes (23 sloc)  538 Bytes
+
 {
-    "require": {
-        "vlucas/phpdotenv": "^5.4"
-    }
+	"name": "php-actions/example-composer",
+	"description": "",
+
+	"repositories": [
+		{
+			"type": "querodenunciar",
+			"url": "https://github.com/gustavokennedy/querodenunciar"
+		}
+	],
+
+	"require": {
+           "vlucas/phpdotenv": "^5.4"
+	},
+    
+	"scripts": {
+		"env-test": "ExampleComposer\\Debug::inspectEnvironmentVariables",
+		"show-version": "ExampleComposer\\Debug::showVersion"
+	},
+
 }
