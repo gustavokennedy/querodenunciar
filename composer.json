@@ -1,5 +1,3 @@
-nes (23 sloc)  538 Bytes
-
 {
 	"name": "php-actions/example-composer",
 	"description": "",
@@ -19,5 +17,4 @@ nes (23 sloc)  538 Bytes
 		"env-test": "ExampleComposer\\Debug::inspectEnvironmentVariables",
 		"show-version": "ExampleComposer\\Debug::showVersion"
 	},
-
 }
