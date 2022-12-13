@@ -1,13 +1,4 @@
 {
-	"name": "php-actions/example-composer",
-
-	"repositories": [
-		{
-			"type": "querodenunciar",
-			"url": "https://github.com/gustavokennedy/querodenunciar"
-		}
-	],
-
 	"require": {
            "vlucas/phpdotenv": "^5.4"
 	},
