@@ -1,6 +1,5 @@
 {
 	"name": "php-actions/example-composer",
-	"description": "",
 
 	"repositories": [
 		{
@@ -12,8 +11,5 @@
 	"require": {
            "vlucas/phpdotenv": "^5.4"
 	},
-    
-	"scripts": {
-		"env-test": "ExampleComposer\\Debug::inspectEnvironmentVariables",
-	}
+
 }
