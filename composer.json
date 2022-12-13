@@ -15,6 +15,5 @@
     
 	"scripts": {
 		"env-test": "ExampleComposer\\Debug::inspectEnvironmentVariables",
-		"show-version": "ExampleComposer\\Debug::showVersion"
-	},
+	}
 }
