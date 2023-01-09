@@ -32,3 +32,7 @@ DB_PASS="root"
 ## Stack utilizada
 
 PHP, Bootstrap e mySQL
+
+## Issues
+
+Nenhuma issue aberta
