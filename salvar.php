@@ -1,4 +1,5 @@
 <?php 
+    # Salva denuncias
     include('config.php');
 
     $data = date("Y/m/d");
