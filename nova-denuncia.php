@@ -4,7 +4,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <meta name="description" content="App público para denúncias municipais, estaduais e federais. Denuncie anonimanete! Simples e rápido!">
+    <meta name="description" content="App público para denúncias municipais, estaduais, federais e particulares. Denuncie anonimanete! Simples e rápido!">
 
     <title>Quero Denunciar v1.2</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -55,7 +55,7 @@
             <div class="mb-3">
                 <label for="testemunhas" class="form-label">Testemunhas*</label>
                 <input required type="text" class="form-control" id="testemunhas" name="testemunhas" aria-describedby="testemunhas">
-            </div>
+    </div>
             <div class="mb-3">
                 <label for="endereco" class="form-label">Endereço do fato*</label>
                 <input required type="text" class="form-control" id="endereco" name="endereco" aria-describedby="endereco">
@@ -75,7 +75,7 @@
 
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">
-    <span class="text-muted">© 2022 Quero denunciar.</span>
+    <span class="text-muted">© 2023 Quero denunciar.</span>
   </div>
 </footer>
 

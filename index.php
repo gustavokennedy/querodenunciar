@@ -43,7 +43,7 @@
       </div>
       <div class="col-lg-6">
         <h1 class="display-5 fw-bold lh-1 mb-3">Algo irregular? Denuncie!</h1>
-        <p class="lead">O Quero Denunciar foi criado para facilitar o registro de representações em órgãos municipais, estaduais e federais.</p>
+        <p class="lead">O Quero Denunciar foi criado para facilitar o registro de representações em órgãos municipais, estaduais, federais e particulares.</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <a href="nova-denuncia.php"><button  class="btn btn-primary btn-lg px-4 me-md-2">Criar denúncia</button></a>
           <a href="lista-denuncia.php"><button type="button" class="btn btn-outline-secondary btn-lg px-4">Ver todas denúncias</button></a>
@@ -93,7 +93,7 @@
 
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">
-    <span class="text-muted">© 2022 Quero denunciar.</span>
+    <span class="text-muted">© 2023 Quero denunciar.</span>
   </div>
 </footer>
 
