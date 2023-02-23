@@ -22,8 +22,8 @@
       </a>
 
       <ul class="nav nav-pills">
-	      <li class="nav-item"><a href="#" active class="nav-link">Criar denúncia</a></li>
-	      <li class="nav-item"><a href="lista-denuncia.php" class="nav-link " aria-current="page">Ver Denúncias</a></li>
+	      <li class="nav-item"><a href="#" active  aria-current="page" class="nav-link">Criar denúncia</a></li>
+	      <li class="nav-item"><a href="lista-denuncia.php" class="nav-link ">Ver Denúncias</a></li>
         <li class="nav-item"><a href="../" class="nav-link">Sobre</a></li>
         <li class="nav-item"><a href="../" class="nav-link">Ajude</a></li>
       </ul>
