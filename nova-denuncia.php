@@ -56,8 +56,9 @@
 </div>
       <br>
             <div class="mb-3">
-			<select required id="estado" name="estado">
-				    <option value="AC">Acre</option>
+			<select required class="form-select" id="estado" name="estado">
+					<option selected>Selecione o estado</option>    
+				<option value="AC">Acre</option>
 				    <option value="AL">Alagoas</option>
 				    <option value="AP">Amapá</option>
 				    <option value="AM">Amazonas</option>
