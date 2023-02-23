@@ -40,6 +40,20 @@
   <p>Para registrar sua denúncia, informe os campos abaixo:</p>
 
   <form action="salvar.php" method="POST">
+    
+    <div class="form-check">
+  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+  <label class="form-check-label" for="flexRadioDefault1">
+    Denúncia Anônima
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+  <label class="form-check-label" for="flexRadioDefault2">
+    Denúncia padrão
+  </label>
+</div>
+      
             <div class="mb-3">
                 <label for="estado" class="form-label">Estado*</label>
                 <input required type="text" class="form-control" id="estado" name="estado" aria-describedby="estado">
