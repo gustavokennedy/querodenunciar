@@ -53,7 +53,7 @@
     Denúncia padrão
   </label>
 </div>
-      
+      <br>
             <div class="mb-3">
                 <label for="estado" class="form-label">Estado*</label>
                 <input required type="text" class="form-control" id="estado" name="estado" aria-describedby="estado">
