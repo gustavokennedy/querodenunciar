@@ -17,7 +17,6 @@
     include ("config.php");
   ?>
 
-    
   <main>
   <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
@@ -26,7 +25,8 @@
       </a>
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Denúncias</a></li>
+	      <li class="nav-item"><a href="nova-denuncia.php" class="nav-link">Criar denúncia</a></li>
+	      <li class="nav-item"><a href="lista-denuncia.php" class="nav-link">Ver Denúncias</a></li>
         <li class="nav-item"><a href="#sobre" class="nav-link">Sobre</a></li>
         <li class="nav-item"><a href="#ajude" class="nav-link">Ajude</a></li>
       </ul>
