@@ -18,3 +18,5 @@ Para rodar o prjoeto:
 npm install
 npm run dev
 ```
+[Repositório do Frontend do Sistema](https://github.com/gustavokennedy/frontend_querodenunciar)
+[Repositório do Backend do Sistema](https://github.com/gustavokennedy/backend_querodenunciar)
