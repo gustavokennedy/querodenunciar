@@ -7,3 +7,14 @@ O Quero Denunciar foi criado para facilitar o registro de representações em ó
 Ajude a manter. As doações são utilizadas para novos recursos e infraestrutura Cloud do sistema. Cada centavo ajuda continuar o projeto Quero Denunciar. 
 
 Sua ajuda é bem vinda.
+
+# NextJS
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Para rodar o prjoeto:
+
+```bash
+npm install
+npm run dev
+```
