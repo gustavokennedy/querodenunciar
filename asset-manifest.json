@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/querodenunciar/static/css/main.dea25409.css",
+    "main.js": "/querodenunciar/static/js/main.fb3d1e41.js",
+    "static/media/dashboard.png": "/querodenunciar/static/media/dashboard.5e553a6b270c0ae595d2.png",
+    "static/media/onephone.png": "/querodenunciar/static/media/onephone.23186f9ca22cd619cd1d.png",
+    "static/media/twophones.png": "/querodenunciar/static/media/twophones.622588b1219ddad5acec.png",
+    "static/media/feature.png": "/querodenunciar/static/media/feature.2da66fdeef81c00b0d99.png",
+    "index.html": "/querodenunciar/index.html",
+    "main.dea25409.css.map": "/querodenunciar/static/css/main.dea25409.css.map",
+    "main.fb3d1e41.js.map": "/querodenunciar/static/js/main.fb3d1e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea25409.css",
+    "static/js/main.fb3d1e41.js"
+  ]
+}
